@@ -1,3 +1,8 @@
+/* Mitchell Myjak
+8/21/16
+This program converts 12 hour clock to 24 hour clock
+https://www.hackerrank.com/challenges/time-conversion
+*/
 #include <cmath>
 #include <cstdio>
 #include <vector>
